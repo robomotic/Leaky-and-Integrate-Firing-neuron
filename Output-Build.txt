@@ -1,0 +1,6 @@
+1>------ Build started: Project: LeakyIntegrateFire, Configuration: Debug Win32 ------
+1>Linking...
+1>LINK : fatal error LNK1168: cannot open C:\Documents and Settings\epokh\My Documents\Visual Studio 2008\Projects\LeakyIntegrateFire\Debug\LeakyIntegrateFire.exe for writing
+1>Build log was saved at "file://c:\Documents and Settings\epokh\My Documents\Visual Studio 2008\Projects\LeakyIntegrateFire\LeakyIntegrateFire\Debug\BuildLog.htm"
+1>LeakyIntegrateFire - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
